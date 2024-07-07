@@ -136,7 +136,7 @@
     left: -320px;
 }
 
-@media screen and (max-width: 485px) {
+@media screen and (max-width: 450px) {
     
     .td {
       display: flex;
